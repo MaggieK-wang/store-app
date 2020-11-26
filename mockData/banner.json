@@ -1,0 +1,66 @@
+{
+    "data": {
+        "pageNum": 1,
+        "pageSize": 100,
+        "size": 3,
+        "startRow": 1,
+        "endRow": 3,
+        "total": 3,
+        "pages": 1,
+        "list": [{
+                "id": 6,
+                "isDelete": 0,
+                "createdTime": "2019-12-12T08:57:28.000+0000",
+                "createdBy": null,
+                "updateTime": "2019-12-10T15:46:39.000+0000",
+                "updateBy": null,
+                "pageNum": null,
+                "pageSize": null,
+                "picStatus": 1,
+                "picUrl": "https://images-cn.ssl-images-amazon.com/images/G/28/kindle/2019/weixin/shigang1500._CB1198675309_.jpg",
+                "picStatusName": "启用"
+            },
+            {
+                "id": 7,
+                "isDelete": 0,
+                "createdTime": "2019-12-10T15:46:52.000+0000",
+                "createdBy": null,
+                "updateTime": "2019-12-10T15:46:52.000+0000",
+                "updateBy": null,
+                "pageNum": null,
+                "pageSize": null,
+                "picStatus": 1,
+                "picUrl": "https://images-cn.ssl-images-amazon.com/images/G/28/kindle/2019/hongyun/qingpingle1500300._CB1198675309_.jpg",
+                "picStatusName": "启用"
+            },
+            {
+                "id": 8,
+                "isDelete": 0,
+                "createdTime": "2019-12-10T15:47:03.000+0000",
+                "createdBy": null,
+                "updateTime": "2019-12-10T15:47:03.000+0000",
+                "updateBy": null,
+                "pageNum": null,
+                "pageSize": null,
+                "picStatus": 1,
+                "picUrl": "https://images-cn.ssl-images-amazon.com/images/G/28/kindle/2016/changlc/yd_200114_content_WeChat_PCHero_1500x300._CB426729607_.jpg",
+                "picStatusName": "启用"
+            }
+        ],
+        "prePage": 0,
+        "nextPage": 0,
+        "isFirstPage": true,
+        "isLastPage": true,
+        "hasPreviousPage": false,
+        "hasNextPage": false,
+        "navigatePages": 8,
+        "navigatepageNums": [1],
+        "navigateFirstPage": 1,
+        "navigateLastPage": 1,
+        "firstPage": 1,
+        "lastPage": 1
+    },
+    "msg": "查询成功",
+    "code": 1,
+    "success": true
+}

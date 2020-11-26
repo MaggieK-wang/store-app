@@ -1,0 +1,64 @@
+{
+    "data": [
+      {
+        "id": 19,
+        "isDelete": 0,
+        "createdTime": "2019-12-13T11:14:28.000+0000",
+        "createdBy": "8",
+        "updateTime": "2019-12-13T11:14:28.000+0000",
+        "updateBy": "8",
+        "pageNum": null,
+        "pageSize": null,
+        "skuCode": "0cd918a9ae0e465b9be3a1e6e818cb23",
+        "shopNum": 1,
+        "businessCode": "c5add1830fe211eaa67400ff735bba7f",
+        "orderUserId": 8,
+        "skuName": "随机漫步的傻瓜（黑天鹅作者塔勒布最新力作，财富推荐75本必读书之一，华尔街交易员人手一本的的“教科书”）",
+        "salePrice": 64.00,
+        "images": [
+          "https://images-cn.ssl-images-amazon.com/images/I/41nIUn94P-L._AC_SX184_.jpg"
+        ]
+      },
+      {
+        "id": 20,
+        "isDelete": 0,
+        "createdTime": "2019-12-13T11:14:28.000+0000",
+        "createdBy": "8",
+        "updateTime": "2019-12-13T11:14:28.000+0000",
+        "updateBy": "8",
+        "pageNum": null,
+        "pageSize": null,
+        "skuCode": "0cd918a9ae0e465b9be3a1e6e818cb23",
+        "shopNum": 1,
+        "businessCode": "c5add1830fe211eaa67400ff735bba7f",
+        "orderUserId": 8,
+        "skuName": "云球（第四部）（中国硬科幻代表之作！比肩《三体》！小说版《盗梦空间》！集人工智能、科幻于一身的大百科全书！）",
+        "salePrice": 64.00,
+        "images": [
+          "https://images-cn.ssl-images-amazon.com/images/I/219IBzkPaAL._AC_SX184_.jpg"
+        ]
+      },
+      {
+        "id": 21,
+        "isDelete": 0,
+        "createdTime": "2019-12-13T11:14:28.000+0000",
+        "createdBy": "8",
+        "updateTime": "2019-12-13T11:14:28.000+0000",
+        "updateBy": "8",
+        "pageNum": null,
+        "pageSize": null,
+        "skuCode": "0cd918a9ae0e465b9be3a1e6e818cb23",
+        "shopNum": 1,
+        "businessCode": "c5add1830fe211eaa67400ff735bba7f",
+        "orderUserId": 8,
+        "skuName": "杀死一只知更鸟（“塑造美国的88部图书”之一，普利策奖、奥斯卡金像奖获奖作品、影响全球5000万家庭的教养圣经，奥巴马、贝克汉姆、奥普拉鼎力推荐） (哈珀·李作品)",
+        "salePrice": 64.00,
+        "images": [
+          "https://images-cn.ssl-images-amazon.com/images/I/41xMUAbEK8L.jpg"
+        ]
+      }
+    ],
+    "msg": "查询成功",
+    "code": 1,
+    "success": true
+  }
